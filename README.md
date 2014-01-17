@@ -1,11 +1,21 @@
 SkeinCoin Wallet Generator
 ========================
 
-The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet.
+The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. 
+
+
+Consider a donation for this project:
+SKC: SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
+BTC: 1FzL6hb9Xy142SzhRPLYU7wekj93ipTthn
+
+or perhapes donate to the developers of bitaddress.org for the source
+
+This project is powered by bitaddress.org source code: https://github.com/pointbiz/bitaddress.org
 
 --------------------------------------
 
 bitaddress.org
+---------------------------------------
 JavaScript Client-Side Bitcoin Wallet Generator
 
 Now Bitcoin addresses and their corresponding private key can be conveniently 
