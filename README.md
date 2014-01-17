@@ -75,7 +75,7 @@ canton@gmail.com
 
 
 --------------------------------------------------------
--- The original bitaddress.org README continues below --
+The original bitaddress.org README continues below
 --------------------------------------------------------
 
 Now Bitcoin addresses and their corresponding private key can be conveniently
