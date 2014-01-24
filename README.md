@@ -11,6 +11,7 @@ Consider a donation to improve this SkeinCoin project:
 or to the developers of bitaddress.org.
 
 This project is powered by bitaddress.org source code: https://github.com/pointbiz/bitaddress.org
+
 --------------------------------------
 Would you like to have a Wallet Generator for your coin? 
 Send an e-mail to d.MethMatician@gmail.com 
