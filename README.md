@@ -15,6 +15,7 @@ This project is powered by bitaddress.org source code: https://github.com/pointb
 --------------------------------------
 Would you like to have a Wallet Generator for your coin? 
 Send an e-mail to d.MethMatician@gmail.com 
+
 --------------------------------------
 
 bitaddress.org
