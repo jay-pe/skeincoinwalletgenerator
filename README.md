@@ -3,6 +3,7 @@ SkeinCoin Wallet Generator
 
 The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. Get the <a href='https://github.com/MethMatician/skeincoinwalletgenerator/archive/master.zip'>zip file here</a>.
 
+In Version .01 the grafics are updated
 
 Consider a donation to improve this SkeinCoin project:
 <br><b> SKC:</b> SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
