@@ -1,13 +1,13 @@
 SkeinCoin Wallet Generator
 ========================
 
-The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. Get the <a href='https://github.com/MethMatician/skeincoinwalletgenerator/archive/master.zip'>zip file here</a>.
+The Online SkeinCoin Wallet Generator. Create your Single Wallet, Paper Wallet, Bulk Wallet, Brain Wallet and Vanity Wallet. The Paper Wallet holds multiple base64 pictures. Download the html and run it (can be offline).
 
-In Version .01 the grafics are updated
+In Version 0.1.1 the grafics are updated, paperwallet is bigger and the adresscodes on the paper got a readable size.
 
 Consider a donation to improve this SkeinCoin project:
-<br><b> SKC:</b> SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
-<br><b> BTC:</b> 1FzL6hb9Xy142SzhRPLYU7wekj93ipTthn
+<br><b> SKC MethMatician:</b> SUztM5rLjt5cZVamBH891H5rsaQoye8BGH
+<br><b> SKC Jay P:</b> Sg2ZtGr2YH2g1S3z2VJia9mEBrGRbZYTkA
 
 or to the developers of bitaddress.org.
 
@@ -34,11 +34,6 @@ loaded.
 
 Here is a link to the BitcoinTalk.org forum topic discussing this project:
 https://bitcointalk.org/index.php?topic=43496.0
-
-
-Please send DONATIONS for this project to Bitcoin Address: 
-1NiNja1bUmhSoTXozBRBEtR8LeF9TGbZBN
-
 
 END USER NOTES: 
  1) To print QRCode in IE8 you must enable the "Print Background Colors and 
